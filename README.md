@@ -46,7 +46,7 @@ You'll also want some basic know-how when it comes to coding, especially if you 
 (Assuming you have all the requirements set up)
 1. Download this repository and unzip (if applicable) to wherever you want it
 2. Open a terminal in the root folder and use `npm i` to install dependencies
-3. Copy the `.env.example` rename it to `.env`. Fill it with the correct values
+3. Copy the `example.env` rename it to `.env`. Fill it with the correct values
 4. Use `node bot` to run the bot
 
 You're all set! The bot should now be working.
